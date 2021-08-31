@@ -17,6 +17,9 @@
 </p>
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/egebilecen/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     <a href="https://github.com/egebilecen">
         <img src="https://komarev.com/ghpvc/?username=egebilecen">
     </a>
