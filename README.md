@@ -11,6 +11,12 @@
 </p>
 
 <p align="center">
+   <a href="https://github.com/egebilecen">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egebilecen&langs_count=20&layout=compact">
+  </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/egebilecen">
         <img src="https://komarev.com/ghpvc/?username=egebilecen">
     </a>
