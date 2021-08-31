@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/egebilecen">
-    <img src="https://i.ibb.co/QjRCdVJ/ege-bilecen-banner.png">
+    <img src="https://user-images.githubusercontent.com/29331682/131561423-fba38989-3588-430b-9fdc-ad97c2b4773e.gif">
   </a>
 </p>
 
