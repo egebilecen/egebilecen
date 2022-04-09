@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+   <a href="https://www.buymeacoffee.com/egebilecen">
+    <img src="https://i.ibb.co/gMYLVV2/Webp-net-resizeimage.png">
+  </a>
+</p>
+
+<p align="center">
    <a href="https://github.com/egebilecen">
     <img src="https://github-readme-stats.vercel.app/api?username=egebilecen&count_private=true&show_icons=true&theme=radical">
   </a>
