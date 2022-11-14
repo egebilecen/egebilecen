@@ -1,14 +1,6 @@
-<p align="center">
-  <a href="https://github.com/egebilecen">
-    <img src="https://user-images.githubusercontent.com/29331682/131563633-4d42663e-0d4a-441e-9702-e1955b32581a.gif">
-  </a>
-</p>
-
-<p align="center">
-   <a href="https://www.buymeacoffee.com/egebilecen">
-    <img src="https://i.ibb.co/gMYLVV2/Webp-net-resizeimage.png">
-  </a>
-</p>
+<div align="center">
+  <img alt="Logo" src="https://github.com/egebilecen/egebilecen.github.io/blob/master/img/EB_logo.png" width="175" />
+</div>
 
 <p align="center">
    <a href="https://github.com/egebilecen">
@@ -29,4 +21,10 @@
     <a href="https://github.com/egebilecen">
         <img src="https://komarev.com/ghpvc/?username=egebilecen">
     </a>
+</p>
+
+<p align="center">
+   <a href="https://www.buymeacoffee.com/egebilecen">
+    <img src="https://i.ibb.co/gMYLVV2/Webp-net-resizeimage.png">
+  </a>
 </p>
