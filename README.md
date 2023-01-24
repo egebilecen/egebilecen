@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/egebilecen/egebilecen.github.io/blob/master/img/EB_logo.png" width="175" />
+  <img alt="Logo" src="https://github.com/egebilecen/egebilecen.github.io/blob/main/img/EB_logo.png" width="175" />
 </div>
 
 <p align="center">
