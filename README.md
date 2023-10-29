@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/egebilecen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egebilecen&langs_count=20&layout=compact">
-  </a>
-</p>
-
-<p align="center">
     <a href="https://www.linkedin.com/in/egebilecen/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
